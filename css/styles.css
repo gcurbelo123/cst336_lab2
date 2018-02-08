@@ -1,0 +1,136 @@
+body {
+    background: #c59344;
+    color: black;
+}
+
+header, nav, footer, #container {
+    text-align: center;
+}
+
+#name {
+    text-decoration: none;
+}
+
+h1 {
+    /*font-family: 'Trocchi', serif;*/
+    font-family: 'Abril Fatface', cursive;
+    font-weight: bold;
+    font-size: 4vw;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    color: black;
+}
+
+main {
+    font-size: 25px;
+}
+
+footer {
+    bottom: 1vw;
+    height: 2vw;
+    left: 10px;
+    right: 10px;
+    font-size: 1em;
+    color: black;
+    clear: both;
+}
+
+nav a {
+    /*padding: 10px;*/
+    font-family: "Kelson Sans",sans-serif;
+    float: clear;
+    margin-right: 5%;
+    text-align: right;
+    padding-top: 4px;
+    font-size: 1.5em;
+    width: 45%;
+    text-decoration: none; /* removes underline */
+    color: black;
+    border-top: 2px black solid;
+}
+
+nav a:hover {
+    border-bottom:2px black solid;
+    font-size: 2em;
+    font-weight: bold;
+    transition: 0.2s;
+}
+
+/*nav a:target {*/
+/*    color: #32CD32;*/
+/*}*/
+
+#computer, #welcomeText {
+  float: left;
+  width: 40%;
+}
+
+#computer img {
+    padding-left: 15vw;
+    width: 50%;
+    margin: 10px 0px 15px;
+    display: inline-block;
+}
+
+#person img {
+    width: 15%;
+    margin: 10px;
+    float: right;
+}
+
+#apple img {
+    width: 20em;
+    margin: 10px;
+    float:right;
+}
+
+#gaming img {
+    width: 20em;
+    margin: 10px;
+    float:right;
+}
+
+#welcomeText {
+    display: block;
+    text-align: left;
+}
+
+#overview {
+    display: block;
+    text-align: left;
+}
+
+#quote {
+    text-align: left;
+}    
+
+#text {
+    text-align: justify;
+}
+
+#logo img {
+    width: 10%;
+}
+
+#content {
+    padding-top: 15px;
+    text-align: center;
+}
+
+#currentLink a {
+    border-top: none;
+    text-decoration: none;
+    font-weight: bold;
+    background: #D3D3D3;
+    padding: 0.5vw;
+    border-radius: 25vw;
+    color: black;
+}
+
+p {
+    font-family: 'Nanum Pen Script', cursive;
+    text-align: none;
+    display: block;
+    font-size: 1.2em;
+    padding-top: 10px;
+}
