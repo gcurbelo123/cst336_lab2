@@ -43,10 +43,6 @@ computers are built upon.
 
 
 
-
-<em>"With ordinary talent and extraordanary perseverance, 
-     all things are attainable"</em>
-                    - Thomas F. Buxton
 </pre>
 <br/><br/>
                 </div>
